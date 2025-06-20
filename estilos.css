@@ -1,0 +1,433 @@
+
+
+section{ 
+   
+    width: 2200px;
+    height: 5000px;
+   
+    
+    font-family: letra-arabe;
+    
+ 
+
+}
+/* aquí usé la tipografía descargada de internet */
+@font-face{
+
+     /* En font-family le dí un nombre, a mi gusto, del la letra que bajé  */
+     font-family: letra-arabe;
+      /*Aquí el src busca en las carpetas el archivo descargado  */
+    src:url(hidayatullah\ DEMO.ttf);
+}
+.imagen_inicial{
+
+    margin-right: 4cm;
+    margin-left: 3cm;
+    padding-right: 5cm;
+}
+body{
+background-image:url(imagenes/fondo55.jpg);
+background-size: cover;
+width: 2400px;
+height: 4000px;
+
+}
+h1{
+    background-color: rgb(94, 203, 247);
+    right: 5cm;
+   margin-left: 25cm;
+   margin-right: 15cm;
+    text-align: center;
+    font-size: 60px;
+    color: rgb(0, 0, 0);
+    border-radius: 1cm;
+    
+    
+
+}
+
+.div1{
+    
+    background-color:  rgb(94, 203, 247);
+    border-radius: 1cm;
+    width: 1800px;
+    height: 350px;
+    text-align: center;
+    font-size: 40px;
+    margin: 10cm;
+    margin-top: 2cm;
+    margin-bottom: 4cm;
+    border-radius: 1cm;
+}
+p{
+    font-size: 30px;
+}
+.div2{
+    background-color: rgb(94, 203, 247);
+    width: 750px;
+    height: 900px;
+    text-align: right;
+    margin-left: 100px;
+    margin-top: 1px;
+    margin-bottom: 50px;
+    text-align: center;
+    border-width: 10px;
+    border-color: black;
+    border: 1px;
+    border-color: black;
+    padding: 4px;
+    
+    
+
+
+
+    
+
+}
+.div3{
+    background-color: rgb(94, 203, 247);
+    width: 750px;
+    height: 900px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 1px;
+    padding: 4px;
+}
+.div4{
+    background-color: rgb(94, 203, 247);
+    width: 750px;
+    height: 900px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 1px;
+    padding: 4px;
+}
+
+.contenedor{
+    margin-top: 5px;
+    display: flex;
+    
+
+    
+}
+
+
+    
+.i2{
+
+    width: 750px;
+    height: 500px;
+}
+.i1{
+    width: 750px;
+    height: 500px;
+
+}
+.i3{
+    width: 750px;
+    height: 500px;
+}
+.parrafo_cuadros{
+
+color: rgb(0, 0, 0);
+font-size: 20px;
+text-align: left;
+
+
+}
+.titulos_cuadros{
+
+font-size: 40px;
+
+
+
+}
+
+.contenedor2{
+    display: flex;
+}
+.div5{
+    background-color: rgb(94, 203, 247);
+    width: 750px;
+    height: 900px;
+    text-align: right;
+    margin-left: 100px;
+    margin-top: 1px;
+    margin-bottom: 50px;
+    text-align: center;
+    padding: 4px;
+}
+.div6{
+    background-color: rgb(94, 203, 247);
+    width: 750px;
+    height: 900px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 1px;
+    padding: 4px;
+}
+.div7{
+    background-color: rgb(94, 203, 247);
+    width: 750px;
+    height: 900px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 1px;
+    padding: 4px;
+    }
+    .i4{
+        width: 750px;
+        height: 500px;
+    }
+    .i5{
+        width: 750px;
+        height: 500px;
+    }
+    .i6{
+        width: 750px;
+        height: 500px;
+    }
+    .contenedor3{
+        display: flex;
+    }
+    .div8{
+        background-color: rgb(94, 203, 247);
+        width: 750px;
+        height: 900px;
+        text-align: right;
+        margin-left: 100px;
+        margin-top: 1px;
+        margin-bottom: 50px;
+        text-align: center;
+        padding: 4px;
+
+    }
+    .div9{
+        background-color: rgb(94, 203, 247);
+    width: 750px;
+    height: 900px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 1px;
+    padding: 4px;
+
+    }
+    .div10{
+        background-color: rgb(94, 203, 247);
+        width: 750px;
+        height: 900px;
+        text-align: center;
+        margin-left: 100px;
+        margin-top: 1px;
+        padding: 4px;
+
+    }
+    .i7{
+        width: 750px;
+        height: 500px;
+
+    }
+    .i8{
+        width: 750px;
+        height: 500px;
+    }
+    .i9{
+        width: 750px;
+        height: 500px;
+    }
+    .contenedor3{
+        display: flex;
+    }
+    .div11{
+        background-color: rgb(94, 203, 247);
+        width: 750px;
+        height: 900px;
+        text-align: right;
+        margin-left: 100px;
+        margin-top: 1px;
+        margin-bottom: 50px;
+        text-align: center;
+        padding: 4px;
+
+    }
+    .div12{
+        background-color: rgb(94, 203, 247);
+        width: 750px;
+        height: 900px;
+        text-align: center;
+        margin-left: 100px;
+        margin-top: 1px;
+        padding: 4px;
+
+    }
+    .div13{
+        background-color: rgb(94, 203, 247);
+        width: 750px;
+        height: 900px;
+        text-align: center;
+        margin-left: 100px;
+        margin-top: 1px;
+        padding: 4px;
+
+
+    }
+    .i10{
+        width: 750px;
+        height: 500px;
+
+    }
+    .i11{
+        width: 750px;
+        height: 500px;
+
+    }
+    .i12{
+        width: 750px;
+        height: 500px;
+
+    }
+    .contenedor4{
+        display: flex;
+       
+    }
+    .div14{
+        background-color: rgb(94, 203, 247);
+        width: 750px;
+        height: 900px;
+        text-align: right;
+        margin-left: 100px;
+        margin-top: 1px;
+        margin-bottom: 50px;
+        text-align: center;
+        padding: 4px;
+
+    }
+    .div15{
+        background-color: rgb(94, 203, 247);
+        width: 750px;
+        height: 900px;
+        text-align: center;
+        margin-left: 100px;
+        margin-top: 1px;
+        padding: 4px;
+
+    }
+    .div16{
+        background-color: rgb(94, 203, 247);
+        width: 750px;
+        height: 900px;
+        text-align: center;
+        margin-left: 100px;
+        margin-top: 1px;
+        padding: 4px;
+
+    }
+    .i13{
+        width: 750px;
+        height: 500px;
+
+    }
+    .i14{
+        width: 750px;
+        height: 500px;
+
+    }
+    .i15{
+        width: 750px;
+        height: 500px;
+
+    }
+    .letras_referencia{
+        font-size: 45px;
+        padding: 1cm;
+        background-color: aliceblue;
+        right: 5cm;
+    }
+    .letras_referenci{
+        font-size: 45px;
+        padding: 1cm;
+        right: 5cm;
+        background-color: aliceblue;
+        
+
+    }
+    .letras_referenc{
+        font-size: 45px;
+        padding: 1cm;
+        right: 5cm;
+        background-color: aliceblue;
+        margin-top: 10cm;
+
+    }
+
+    iframe{
+
+        margin-top: 1cm;
+        padding-left: 15cm;
+       margin-bottom: 1cm;
+        width: 1500px;
+        height: 900px;
+        border-color: aqua;
+        border: 5px;
+
+    }
+    .sitios_citados{
+        font-size: 50px;
+        margin-top: 2cm;
+        margin-bottom: 0;
+        border-radius: 1cm;
+        margin-left: 13cm;
+        background-color: rgb(94, 203, 247);
+      
+    }
+    .barra_final{
+
+        width: 2675px;
+        height: 200px;
+        background-color: black;
+        border-radius: 1cm;
+
+
+
+    }
+     
+       
+    .Ir_inicio{
+
+        margin-left: 26cm;
+        font-size: 30px;
+    }
+    .whatt{
+
+      height: 50px;
+      margin-top: 2.5cm;
+    
+    }
+    .inst{
+        height: 50px;
+        
+    }
+    .faceb{
+        height: 50px;
+        
+       
+    }
+    .loNecesario{
+        font-size: 65px;
+        text-align: center;
+    }
+    li{
+        font-size: 35px;
+        
+    }
+    .preguntas{
+        width: 2675px;
+        height: 550px;
+        background-color: rgb(94, 203, 247);
+        border-radius: 1cm;
+
+
+    }
+    a:hover{
+        color: red;
+    }

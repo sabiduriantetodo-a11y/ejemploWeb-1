@@ -1,0 +1,20 @@
+@font-face {
+        font-family: letra-arabe;
+        src:url(hidayatullah\ DEMO.ttf);
+}
+
+
+body{
+
+    background-color: rgb(14, 163, 223);
+    font-family: letra-arabe;
+}
+p{
+    font-size: 50px;
+}
+a{
+    font-size: 24px;
+}
+a:hover{
+        color: red;
+    }
