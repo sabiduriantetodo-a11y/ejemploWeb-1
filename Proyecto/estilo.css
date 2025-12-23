@@ -1,0 +1,43 @@
+body {
+
+    font-family: fantasy;
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(88, 151, 151);
+}
+
+div {
+
+    background-color: blue;
+    width: 32%;
+    margin: 5px;
+    height: 400 px;
+
+    /* todos los div deben tener el display: inline-block porque sinó no podremos utilizar el flex-box */
+    display: inline-block;
+}
+
+iframe {
+
+    width: 100%;
+}
+
+.caratula {
+
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+h1 {
+    text-align: center;
+    font-size: 100px;
+    margin: 40px 40px 80px 40px;
+}
+
+p {
+
+    margin: 20px 20px 100px 20px;
+    font-size: 20px;
+}
